@@ -1,0 +1,8 @@
+Change-Id: Iccbdad35b582cfa214202b2560a6a711bd92f9fa
+Code-Review+2: Rob Spanton <rspanton@zepler.net>
+Verified+1: Rob Spanton <rspanton@zepler.net>
+Submitted-by: Rob Spanton <rspanton@zepler.net>
+Submitted-at: Sun, 15 Sep 2013 19:53:47 +0100
+Reviewed-on: https://www.studentrobotics.org/gerrit/833
+Project: inventory
+Branch: refs/heads/master
